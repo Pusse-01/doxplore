@@ -1,0 +1,4 @@
+Flask==2.1.2
+langchain==0.0.138
+PyPDF2==3.0.1
+Werkzeug==2.2.2
